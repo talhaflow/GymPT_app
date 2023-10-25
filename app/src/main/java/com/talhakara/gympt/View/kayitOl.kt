@@ -81,10 +81,7 @@ fun kayitOl(navController: NavController) {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
 
-        Text(
-            text = "Instagram Kayıt ol",
-            style = TextStyle(fontSize = 24.sp, fontWeight = FontWeight.Bold)
-        )
+
         Spacer(modifier = Modifier.height(8.dp))
         //kullanıcı adı alma
         OutlinedTextField(

@@ -51,10 +51,7 @@ fun LoginScreen(navController: NavController) {
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        Text(
-            text = "Instagram Clone",
-            style = TextStyle(fontSize = 24.sp, fontWeight = FontWeight.Bold)
-        )
+
         Spacer(modifier = Modifier.height(16.dp))
         //kullanıcı adı alma
         OutlinedTextField(
