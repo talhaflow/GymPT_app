@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572447908165",
+    "project_id": "gympt-d96eb",
+    "storage_bucket": "gympt-d96eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572447908165:android:72782dc89f863b7cda1e2c",
+        "android_client_info": {
+          "package_name": "com.talhakara.gympt.View"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gK34swFhrBRXrhQz0fg3OBMKBmm1QDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
